@@ -17,4 +17,8 @@ public class HelloWorld {
     		count = 10;
                 System.out.println(count);
     }
+    
+    public void printSomething() {
+    		name = "Testing";
+    }
 }
