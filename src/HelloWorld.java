@@ -21,4 +21,9 @@ public class HelloWorld {
     public void printSomething() {
     		name = "Testing";
     }
+
+    public int computeSomething(){
+        return 1;
+    }
+    
 }
