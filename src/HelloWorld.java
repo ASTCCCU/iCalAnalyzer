@@ -13,6 +13,7 @@ public class HelloWorld {
     private int count;
     
     public HelloWorld() {
-    		count = 1;
+    		count = 5;
+    		name = "King";
     }
 }
