@@ -11,4 +11,8 @@
 public class HelloWord {
     private String name;
     private int count;
+    
+    public HelloWord() {
+    		count = 1;
+    }
 }
