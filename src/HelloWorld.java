@@ -20,6 +20,7 @@ public class HelloWorld {
     
     public void printSomething() {
     		name = "Testing";
+                count = 1;
     }
 
     public int computeSomething(){
