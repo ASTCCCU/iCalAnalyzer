@@ -13,6 +13,7 @@ public class HelloWorld {
     private int count;
     
     public HelloWorld() {
+    		name = "King";
     		count = 10;
                 System.out.println(count);
     }
