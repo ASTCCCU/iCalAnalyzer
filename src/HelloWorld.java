@@ -17,4 +17,9 @@ public class HelloWorld {
     		count = 10;
                 System.out.println(count);
     }
+    
+    public int computeSomething(){
+        return 1;
+    }
+    
 }
