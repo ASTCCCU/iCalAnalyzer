@@ -5,6 +5,11 @@ public class MyCalendar {
         
         private String testing;
 
+        private void newMethod1(){
+            return;
+        }
+                
+        
         public MyCalendar() {
             date = "today";
             notes = "something";
