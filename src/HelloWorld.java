@@ -11,6 +11,7 @@
 public class HelloWorld {
     private String name;
     private int count;
+    private int another;
     
     public HelloWorld() {
     		name = "King";
