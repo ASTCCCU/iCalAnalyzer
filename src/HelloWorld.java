@@ -18,6 +18,11 @@ public class HelloWorld {
                 System.out.println(count);
     }
     
+    public void today() {
+    		System.out.println("Today is Thursday.");
+    		return;
+    }
+    
     public void printSomething() {
     		name = "Testing";
                 count = 2;
