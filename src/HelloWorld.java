@@ -12,6 +12,8 @@ public class HelloWorld {
     private String name;
     private int count;
     private int another;
+    private int anotherInt;
+    private float test;
     
     public HelloWorld() {
     		name = "King";
