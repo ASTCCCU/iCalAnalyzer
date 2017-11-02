@@ -8,6 +8,10 @@ public class MyCalendar {
         public int newMethod2(){
             return 0;
         }
+ 
+        public int newMethod3(){
+            return 1;
+        }
         
         public MyCalendar() {
             date = "today";

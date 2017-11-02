@@ -13,7 +13,7 @@ public class HelloWorld {
     private int count;
     private int another;
     private int anotherInt;
-    private float test;
+    private float test1;
     
     public HelloWorld() {
     		name = "King";
