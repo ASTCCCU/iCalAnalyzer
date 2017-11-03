@@ -11,4 +11,8 @@
 public class TestOnly {
     private String testing = null;
     private int counter = 1;
+    
+    static void printSummary(){
+        System.out.println("Summary");
+    }
 }
