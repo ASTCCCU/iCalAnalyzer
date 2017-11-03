@@ -1,8 +1,12 @@
-
+/*
+ * comment
+ * 
+ */
 public class MyCalendar {
 	public String date;
 	public String notes;
-        
+    private String oneMoreField;
+    
         private String testing;
 
         public int newMethod2(){
