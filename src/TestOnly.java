@@ -6,9 +6,13 @@
 
 /**
  *
- * @author kingtin
+ * @author victoria
  */
 public class TestOnly {
     private String testing = null;
     private int counter = 1;
+    
+    public TestOnly(){
+        counter = 2;
+    }
 }
