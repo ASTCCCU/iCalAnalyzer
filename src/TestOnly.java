@@ -13,7 +13,7 @@ public class TestOnly {
     private int counter = 1;
     
     public TestOnly(){
-        counter = 2;
+        counter = 3;
     }
     
     static void printSummary(){
