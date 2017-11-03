@@ -9,11 +9,11 @@
  * @author kingtin
  */
 public class NewClass {
-    private String myName;
+    private String name;
     private int counter;
 
     public String getName(){
-        return myName;
+        return name;
     }
     
     public int getCounter(){
