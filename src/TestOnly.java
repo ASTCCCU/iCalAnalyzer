@@ -16,6 +16,10 @@ public class TestOnly {
         counter = 3;
     }
     
+    private void newMethod1() {
+        return;
+    }
+    
     static void printSummary(){
         System.out.println("Summary");
     }
