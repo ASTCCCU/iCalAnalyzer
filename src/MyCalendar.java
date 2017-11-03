@@ -12,7 +12,11 @@ public class MyCalendar {
         public int newMethod3(){
             return 1;
         }
-        
+ 
+        public float newMethod4(){
+            return 1.0f;
+        }
+                
         public MyCalendar() {
             date = "today";
             notes = "something";
