@@ -10,8 +10,14 @@
  */
 public class NewClass {
     private String myName;
-    
+    private int counter;
+
     public String getName(){
         return myName;
     }
+    
+    public int getCounter(){
+        return counter;
+    }
+    
 }
