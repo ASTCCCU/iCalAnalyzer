@@ -26,11 +26,12 @@ public class HelloWorld {
     		return;
     }
     
-    public void printSomething() {
-    		name = "Testing";
-                count = 2;
+        
+    public void tomorrow() {
+        System.out.println("Tomw is Saturday.");
+    	return;
     }
-
+    
     public int computeSomething(){
         return 1;
     }
