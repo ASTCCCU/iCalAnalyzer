@@ -21,6 +21,11 @@ public class MyCalendar {
             return;
         }
         
+    
+        public float newMethod5(){
+            return 2.0f;
+        }
+                
         public MyCalendar() {
             date = "today";
             notes = "something";
