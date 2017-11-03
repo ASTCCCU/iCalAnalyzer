@@ -10,4 +10,8 @@
  */
 public class NewClass {
     private String myName;
+    
+    public String getName(){
+        return myName;
+    }
 }
