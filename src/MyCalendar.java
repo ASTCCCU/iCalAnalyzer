@@ -16,6 +16,10 @@ public class MyCalendar {
         public float newMethod4(){
             return 1.0f;
         }
+    
+        public float newMethod5(){
+            return 2.0f;
+        }
                 
         public MyCalendar() {
             date = "today";
