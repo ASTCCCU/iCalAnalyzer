@@ -15,4 +15,8 @@ public class TestOnly {
     public TestOnly(){
         counter = 2;
     }
+    
+    static void printSummary(){
+        System.out.println("Summary");
+    }
 }
