@@ -7,6 +7,10 @@ public class MyCalendar {
 	public String notes;
     private String oneMoreField;
     
+    public MyCalendar(String notes){
+        this.notes = notes;
+    }
+    
         private String testing;
 
         public int newMethod2(){
