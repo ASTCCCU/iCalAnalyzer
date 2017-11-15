@@ -16,7 +16,6 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.Arrays;
 
-
 /**
  * A sample class illustrating how to parse an iCalendar file using the 
  * iCal4j library
